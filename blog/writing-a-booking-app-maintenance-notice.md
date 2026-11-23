@@ -20,6 +20,8 @@ If your booking flow is part of a wider system that also handles enquiries, paym
 
 Related resource: [software application development company](https://www.blackstoneintelligence.com.my/software-application-development-company).
 
+If the interruption affects future releases too, record the notice and the update schedule as part of release acceptance. Share those requirements with your team or [app development partner](https://www.blackstoneintelligence.com.my/app-development-services) so the next version can give staff a way to update and remove the notice without a code deployment.
+
 ## Start With What Still Works
 
 The most common mistake in a maintenance notice is to describe the outage in general terms and leave the customer to work out the rest. A better structure leads with what remains available.
