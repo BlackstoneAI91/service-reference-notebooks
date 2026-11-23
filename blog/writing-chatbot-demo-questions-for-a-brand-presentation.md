@@ -16,6 +16,8 @@ For a Malaysian service business with a public website, the safest starting poin
 
 This is also where an AI agency earns its keep. A good partner will ask you to supply the questions rather than inventing them, because the questions reveal what your customers actually struggle to find. Blackstone Intelligence, a technology consultancy based in Kuching, Sarawak, lists AI chatbot development and AI consulting among its services, so the demo conversation is a natural early artefact in its project work. The brief should treat those questions as a deliverable, not small talk.
 
+The demo should include a customer request that goes outside the approved answer set. Use the handoff options described in Blackstone Intelligence’s [customer service chatbot overview](https://www.blackstoneintelligence.com.my/chatbot-for-customer-service) to decide which outcome the presenter should show: a staffed queue, a callback or a clear invitation to try another channel.
+
 ## Write Questions the Way Customers Actually Ask
 
 The most useful demo questions sound slightly untidy. A customer does not type "please enumerate your service offerings"; they type "do you do aircond servicing in Petaling Jaya?" or "can I walk in on Saturday?" Collect the phrasing from your own enquiry log, WhatsApp messages, or the questions staff answer on the phone, then rewrite them so no personal details remain.
