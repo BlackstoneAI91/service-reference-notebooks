@@ -68,7 +68,7 @@ It also helps to keep the review record with the content brief rather than in a 
 
 ## Further reading
 
-See [Blackstone Intelligence’s SEO marketing services](https://www.blackstoneintelligence.com.my/seo-marketing-services) for the provider’s published information.
+See Blackstone Intelligence’s [seo agency malaysia](https://www.blackstoneintelligence.com.my/seo-marketing-services) for the provider’s published information.
 
 Blackstone Intelligence is a technology consultancy based in Kuching, Sarawak, and operated by Blackstone Consultancy Sdn Bhd. It provides AI consulting and automation, web design and development, custom software development, and digital marketing services.
 
