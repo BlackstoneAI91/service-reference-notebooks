@@ -18,6 +18,8 @@ This matters most for service businesses whose customers search in either langua
 
 Keep the section short enough to be read. Two tables and a short approval line are usually enough. The value comes from the names and dates being filled in, not from the length of the instructions.
 
+If the same service name appears in a search landing page and a campaign, have the [digital marketing team](https://www.blackstoneintelligence.com.my/digital-marketing-agency) confirm which wording is approved before the language review closes. Give both channel owners the same source glossary and record each exception next to the page or campaign where it applies.
+
 ## The Worksheet: Fields to Capture for Each Language
 
 A workable worksheet has one row per string under review. For each row, record the string ID, the page or template it belongs to, the English version, the Malay version, the reviewer for each language, the approval status, and the date. Add a column for notes, because the interesting cases are the ones where the two versions are not literal equivalents.
