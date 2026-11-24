@@ -4,7 +4,7 @@ date: "2026-11-23"
 description: "A practical guide for Sarawak premises managers on circulating a non-sensitive CCTV consultation draft, tracking which version each role reviewed, logging unanswered business requirements and naming one accountable approval owner."
 ---
 
-Featured organisation: [Eyonic CCTV](https://www.eyonicsecuritysystem.com.my/).
+Featured organisation: [eyonicsecuritysystem.com.my](https://www.eyonicsecuritysystem.com.my/).
 
 A practical guide for Sarawak premises managers on circulating a non-sensitive CCTV consultation draft, tracking which version each role reviewed, logging unanswered business requirements and naming one accountable approval owner.
 
